@@ -5,7 +5,23 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Rutza/Desktop/Humber sem 2/ToJam/ToJam2023/FirstToJamgame/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+				"C:/Users/Rutza/Desktop/Humber sem 2/ToJam/ToJam2023/FirstToJamgame/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"C:/Users/Rutza/Desktop/Humber sem 2/ToJam/ToJam2023/FirstToJamgame/Content/Jason/Animations/Crouch_Idle.uasset",
+				"C:/Users/Rutza/Desktop/Humber sem 2/ToJam/ToJam2023/FirstToJamgame/Content/Jason/Animations/Crouh_Walk.uasset",
+				"C:/Users/Rutza/Desktop/Humber sem 2/ToJam/ToJam2023/FirstToJamgame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset",
+				"C:/Users/Rutza/Desktop/Humber sem 2/ToJam/ToJam2023/FirstToJamgame/Content/Jason/Animations/Idle_Break.uasset",
+				"C:/Users/Rutza/Desktop/Humber sem 2/ToJam/ToJam2023/FirstToJamgame/Content/Jason/Animations/Walk_Stop.uasset",
+				"C:/Users/Rutza/Desktop/Humber sem 2/ToJam/ToJam2023/FirstToJamgame/Content/Jason/Animations/Locomotion/Idle_Break.uasset",
+				"C:/Users/Rutza/Desktop/Humber sem 2/ToJam/ToJam2023/FirstToJamgame/Content/Jason/Animations/Locomotion/Walk_Stop.uasset",
+				"C:/Users/Rutza/Desktop/Humber sem 2/ToJam/ToJam2023/FirstToJamgame/Content/Jason/Animations/Crouched/Crouch_Idle.uasset",
+				"C:/Users/Rutza/Desktop/Humber sem 2/ToJam/ToJam2023/FirstToJamgame/Content/Jason/Animations/Crouched/Crouh_Walk.uasset",
+				"C:/Users/Rutza/Desktop/Humber sem 2/ToJam/ToJam2023/FirstToJamgame/Content/Jason/Animations/Locomotion/NewBlendSpace1D.uasset",
+				"C:/Users/Rutza/Desktop/Humber sem 2/ToJam/ToJam2023/FirstToJamgame/Content/Jason/Animations/Locomotion/Locomotive.uasset",
+				"C:/Users/Rutza/Desktop/Humber sem 2/ToJam/ToJam2023/FirstToJamgame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Rutza/Desktop/Humber sem 2/ToJam/ToJam2023/FirstToJamgame/Content/Jason/Animations/ABP_Jason.uasset",
+				"C:/Users/Rutza/Desktop/Humber sem 2/ToJam/ToJam2023/FirstToJamgame/Content/Jason/Animations/Crouched/CrouchedBlendSpace1D.uasset",
+				"C:/Users/Rutza/Desktop/Humber sem 2/ToJam/ToJam2023/FirstToJamgame/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/Rutza/Desktop/Humber sem 2/ToJam/ToJam2023/FirstToJamgame/Content/ThirdPerson/Input/Actions/IA_Crouched.uasset"
 			]
 		}
 	]
